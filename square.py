@@ -1,6 +1,6 @@
 #python code to print stairs based on the input
 
-#function
+#method
 def print_staircase(n):
     for i in range(1, n + 1):
         stars = '*' * i
